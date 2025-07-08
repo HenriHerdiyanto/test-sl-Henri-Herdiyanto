@@ -1,3 +1,6 @@
+## INFORMATION
+Sebenarnya saya sudah pernah membuat sistem ini sebelumnya yang jauh lebih lengkap. anda bisa melihatnya pada repository saya yang bernama
+
 ## HENRI HERDIYANTO
 CARA MENJALANKAN :
 1. CLONE REPOSITORY INI
