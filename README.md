@@ -1,5 +1,5 @@
 ## INFORMATION
-Sebenarnya saya sudah pernah membuat sistem ini sebelumnya yang jauh lebih lengkap. anda bisa melihatnya pada repository saya yang bernama
+Sebenarnya saya sudah pernah membuat sistem ini sebelumnya yang jauh lebih lengkap hingga ada fitur absen dari jarak tertentu dan beberapa keunggulan lainnya. anda bisa melihatnya pada repository saya yang bernama <b>sitem_Hrd</b> namun saya membuat ulang sebagai bahan pertimbangan kalau saya membuatnya dari awal.
 
 ## HENRI HERDIYANTO
 CARA MENJALANKAN :
